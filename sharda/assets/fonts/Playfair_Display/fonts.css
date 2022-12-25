@@ -1,0 +1,41 @@
+@font-face {
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    src: local('PlayfairDisplay Regular'), local('PlayfairDisplay-Regular'), url(PlayfairDisplay-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 500;
+    src: local('PlayfairDisplay Medium'), local('PlayfairDisplay-Medium'), url(PlayfairDisplay-Medium.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 600;
+    src: local('PlayfairDisplay SemiBold'), local('PlayfairDisplay-SemiBold'), url(PlayfairDisplay-SemiBold.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 700;
+    src: local('PlayfairDisplay Bold'), local('PlayfairDisplay-Bold'), url(PlayfairDisplay-Bold.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 800;
+    src: local('PlayfairDisplay ExtraBold'), local('PlayfairDisplay-ExtraBold'), url(PlayfairDisplay-ExtraBold.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 900;
+    src: local('PlayfairDisplay Black'), local('PlayfairDisplay-Black'), url(PlayfairDisplay-Black.ttf) format('truetype');
+}

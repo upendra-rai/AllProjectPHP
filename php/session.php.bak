@@ -1,0 +1,7 @@
+<?php
+ 
+ session_start();
+ $_SESSION["USERNAME"]="RAM1";
+ echo "session variable is set";
+
+?>

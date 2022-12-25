@@ -1,0 +1,17 @@
+<?php
+
+class octopus_model extends CI_Model{
+
+	public function getAllProducts(){
+
+		$query=$this->db->get('product');
+	
+         if ($query) {
+         	return $query->result();
+         }
+	}
+
+	
+}
+
+?>
